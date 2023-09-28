@@ -1,5 +1,6 @@
 # Python-Browser
 Javascript fast disable
+Protection hooks bot-net
 
 
 You can user this python file for inject proxychains4
