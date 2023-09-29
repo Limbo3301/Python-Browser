@@ -16,15 +16,11 @@ pip install -r "requerements.txt"
  | a |
   \_/
 
-    3
+    python -m pip install -U nome_pacote
    / \
   /   \
  /     \
-.       . 
-   / \
-  /   \
- /     \
-.       .
+    pip install -r requerements.txt
 
 
 
