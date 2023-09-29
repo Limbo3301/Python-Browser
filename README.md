@@ -1,4 +1,7 @@
 # Python-Browser
+apt-get install python3
+apt-get install python
+python -m pip install -U nome_pacote or pip install -r "requerements.txt"
 Javascript fast disable
 Protection hooks bot-net
 
