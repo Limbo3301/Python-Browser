@@ -1,8 +1,35 @@
 # Python-Browser
 apt-get install python3
+
 apt-get install python
-python -m pip install -U nome_pacote or pip install -r "requerements.txt"
+
+python -m pip install -U nome_pacote 
+
+or 
+
+pip install -r "requerements.txt"
+
+   _
+  /i\
+ | n |
+ | t |
+ | a |
+  \_/
+
+    3
+   / \
+  /   \
+ /     \
+.       . 
+   / \
+  /   \
+ /     \
+.       .
+
+
+
 Javascript fast disable
+
 Protection hooks bot-net
 
 
