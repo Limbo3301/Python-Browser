@@ -22,6 +22,10 @@ pip install -r "requerements.txt"
  /     \
     pip install -r requerements.txt
 
+    pip install PyQtWebEngine
+
+    pio install requests
+
 
 
 Javascript fast disable
